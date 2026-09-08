@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">recado.</string>
+
+    <!-- Marca -->
+    <string name="wordmark">recado.</string>
+    <string name="brand_mark">r.</string>
+
+    <!-- Empty -->
+    <string name="empty_headline">¿Qué hace falta?</string>
+    <string name="empty_copy">Apuntá lo primero…</string>
+    <string name="empty_field">+ Agregar al mandado</string>
+    <string name="empty_footer">Lo apuntas. Lo resuelves.</string>
+
+    <!-- Lista -->
+    <string name="list_title">El mandado</string>
+    <string name="list_meta">%1$s · %2$s</string>
+    <string name="add_field">Agregar al mandado</string>
+    <string name="all_done">Listo por hoy.</string>
+    <string name="undo">Deshacer</string>
+    <string name="clear_done">Borrar tachados</string>
+
+    <!-- Add -->
+    <string name="cancel">Cancelar</string>
+    <string name="add_headline">¿Qué hace falta?</string>
+    <string name="add_placeholder">Escribilo acá…</string>
+    <string name="add_save">Guardar</string>
+    <string name="chip_milk">leche</string>
+    <string name="chip_eggs">huevos</string>
+    <string name="chip_bread">pan</string>
+
+    <!-- Borrar -->
+    <string name="delete_title">¿Borrar este recado?</string>
+    <string name="delete_confirm">Borrar</string>
+
+    <!-- Widget -->
+    <string name="widget_more">+%1$d más</string>
+
+    <!-- Accesibilidad -->
+    <string name="cd_toggle_pending">Marcar como hecho</string>
+    <string name="cd_toggle_done">Desmarcar</string>
+    <string name="cd_open_add">Agregar al mandado</string>
+</resources>
